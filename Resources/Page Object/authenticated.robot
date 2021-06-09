@@ -9,10 +9,9 @@ Library  Dialogs
 
 # This needs to be updated
 ${expfilter_result} =  Results: 22 courses
-#${username} =   z9z97134
-#${pwd} =   Z9teststudent2!
-${username} =   z9z94645
-${pwd} =   Z9teststudent1!
+
+${username} =
+${pwd} =   
 
 *** Keywords ***
 Load
