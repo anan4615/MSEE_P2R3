@@ -25,8 +25,8 @@ Test Teardown  common.End Web test
 
 # robot -d results tests/demo.robot
 ${auth_FORM_URL} =  https://boulder3.apply.colorado.edu/register/testSummerReturning
-${uname} =  z9z97134
-${passwd} =  Z9teststudent2!
+${uname} = 
+${passwd} = 
 
 *** Test Cases ***
 
