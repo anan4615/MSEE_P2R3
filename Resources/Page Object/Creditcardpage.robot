@@ -6,16 +6,16 @@ Library  Dialogs
 
 *** Variables ***
 
-${cardholdersname} =  Monica
-${mastercard_creditcardno} =  5454545454545454
-${exp_mon} =  12
-${exp_year} =  2024
-${address1} =  3676 Yale dr
+${cardholdersname} =  
+${mastercard_creditcardno} = 
+${exp_mon} =  
+${exp_year} =  
+${address1} =  
 ${city} =  Broomfield
 ${state1} =  COLORADO
 ${zip} =  80023
 ${phone} =  7208971234
-${emailaddress} =  anita.antonysamy@colorado.edu
+${emailaddress} =  
 
 
 *** Keywords ***
