@@ -1,0 +1,12 @@
+*************All input fields locators must be updated
+*************Variables containing form links must be updated
+*************Citizenship info must be checked manually
+*****************Emabargoed countries must be checked manually
+****************Acess Course content from diff location(yes/no) must be checked manually
+***************Authenticated form course selection "Your  ************* MSEE on Coursers Courses" this must be updated
+***************Toggle between unauth and auth in test cases and test template*
+*******************Toggle between data library for auth and unauth in demo.robot
+***************Course locators change for the forms update the data sheet for auth/unauth
+*************comment all link outs while running multiple test cases
+
+
